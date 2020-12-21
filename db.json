@@ -1,0 +1,124 @@
+{
+    "traveltimes": [{
+            "destination": "Kahlenbergerdorf",
+            "destination_id": 15,
+            "origin": "Aufeldgasse",
+            "origin_id": 14,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 279.0,
+            "tt_cnt": 5,
+            "tt_free": 237.0,
+            "tt_loss": 42.0
+        }, {
+            "destination": "L116 - WienerStrasse",
+            "destination_id": 13,
+            "origin": "Aufeldgasse",
+            "origin_id": 14,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 47.0,
+            "tt_cnt": 6,
+            "tt_free": 40.7,
+            "tt_loss": 6.299999999999997
+        }, {
+            "destination": "Aufeldgasse",
+            "destination_id": 14,
+            "origin": "Kahlenbergerdorf",
+            "origin_id": 15,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 272.0,
+            "tt_cnt": 11,
+            "tt_free": 207.0,
+            "tt_loss": 65.0
+        }, {
+            "destination": "L116 - WienerStrasse",
+            "destination_id": 13,
+            "origin": "Kahlenbergerdorf",
+            "origin_id": 15,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 226.9,
+            "tt_cnt": 17,
+            "tt_free": 165.46,
+            "tt_loss": 61.44
+        }, {
+            "destination": "Aufeldgasse",
+            "destination_id": 14,
+            "origin": "L116 - WienerStrasse",
+            "origin_id": 13,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 47.5,
+            "tt_cnt": 12,
+            "tt_free": 34.0,
+            "tt_loss": 13.5
+        }, {
+            "destination": "Kahlenbergerdorf",
+            "destination_id": 15,
+            "origin": "L116 - WienerStrasse",
+            "origin_id": 13,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 197.2,
+            "tt_cnt": 44,
+            "tt_free": 160.875,
+            "tt_loss": 36.32499999999999
+        }, {
+            "destination": "Aufeldgasse",
+            "destination_id": 14,
+            "origin": "Kahlenbergerdorf",
+            "origin_id": 15,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": null,
+            "tt_cnt": 0,
+            "tt_free": null,
+            "tt_loss": null
+        }, {
+            "destination": "L116 - WienerStrasse",
+            "destination_id": 13,
+            "origin": "Kahlenbergerdorf",
+            "origin_id": 15,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": null,
+            "tt_cnt": 0,
+            "tt_free": null,
+            "tt_loss": null
+        }, {
+            "destination": "Aufeldgasse",
+            "destination_id": 14,
+            "origin": "L116 - WienerStrasse",
+            "origin_id": 13,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 47.5,
+            "tt_cnt": 12,
+            "tt_free": 34.0,
+            "tt_loss": 13.5
+        }, {
+            "destination": "L116 - WienerStrasse",
+            "destination_id": 13,
+            "origin": "Aufeldgasse",
+            "origin_id": 14,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": 47.0,
+            "tt_cnt": 6,
+            "tt_free": 40.7,
+            "tt_loss": 6.299999999999997
+        }, {
+            "destination": "Kahlenbergerdorf",
+            "destination_id": 15,
+            "origin": "L116 - WienerStrasse",
+            "origin_id": 13,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": null,
+            "tt_cnt": 0,
+            "tt_free": null,
+            "tt_loss": null
+        }, {
+            "destination": "Kahlenbergerdorf",
+            "destination_id": 15,
+            "origin": "Aufeldgasse",
+            "origin_id": 14,
+            "time": "2020-12-18T07:55:00.000000Z",
+            "tt": null,
+            "tt_cnt": 0,
+            "tt_free": null,
+            "tt_loss": null
+        }
+    ]
+}
