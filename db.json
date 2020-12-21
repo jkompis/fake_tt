@@ -15,10 +15,10 @@
             "origin": "Aufeldgasse",
             "origin_id": 14,
             "time": "2020-12-18T07:55:00.000000Z",
-            "tt": 1279.0,
+            "tt": 1579.0,
             "tt_cnt": 5,
             "tt_free": 237.0,
-            "tt_loss": 1042.0
+            "tt_loss": 1342.0
         }, {
             "destination": "L116 - WienerStrasse",
             "destination_id": 13,
