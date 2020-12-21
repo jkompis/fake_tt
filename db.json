@@ -99,26 +99,6 @@
             "tt_cnt": 6,
             "tt_free": 40.7,
             "tt_loss": 6.299999999999997
-        }, {
-            "destination": "Kahlenbergerdorf",
-            "destination_id": 15,
-            "origin": "L116 - WienerStrasse",
-            "origin_id": 13,
-            "time": "2020-12-18T07:55:00.000000Z",
-            "tt": null,
-            "tt_cnt": 0,
-            "tt_free": null,
-            "tt_loss": null
-        }, {
-            "destination": "Kahlenbergerdorf",
-            "destination_id": 15,
-            "origin": "Aufeldgasse",
-            "origin_id": 14,
-            "time": "2020-12-18T07:55:00.000000Z",
-            "tt": null,
-            "tt_cnt": 0,
-            "tt_free": null,
-            "tt_loss": null
         }
     ]
 }
